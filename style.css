@@ -17,10 +17,16 @@ h1
     font-size: 250% !important;
     word-break: keep-all;
 }
+h3
+{
+    font-weight: 600 !important;
+    font-size: 130% !important;
+    word-break: keep-all;
+}
 h4
 {
     font-weight: 500 !important;
-    font-size: 120% !important;
+    font-size: 100% !important;
     word-break: keep-all;
 }
 #navbar_custom
@@ -35,16 +41,26 @@ h4
     color:white;
     font-style:bold;
 }
-#home_introduce_jumbotron
+#home_introduce_jumbotron_1
 {
     border-radius:30px;
     color:#000000;
 }
-#line_1
+#home_introduce_jumbotron_2
+{
+    border-radius:30px;
+    color:#000000;
+}
+#home_introduce_jumbotron_3
+{
+    border-radius:30px;
+    color:#000000;
+}
+.line_1
 {
     margin-left:0%;
     margin-right:0%;
-    border-color:#8B0029;
+    border-color:#d1d1d1;
     border-width:3px;
     border-radius:100px;
 }
@@ -61,6 +77,12 @@ h4
     border-radius:7px;
 }
 #button_instagram
+{
+    background-color:#8B0029;
+    border-width:0px;
+    border-radius:7px;
+}
+#button_github
 {
     background-color:#8B0029;
     border-width:0px;
