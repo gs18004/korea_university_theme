@@ -10,6 +10,10 @@ function visit_instagram()
 {
     window.open("https://www.instagram.com/u_mini.341/");
 }
+function visit_github()
+{
+    window.open("https://github.com/mintway0341");
+}
 
 function change_color_1_aos()
 {
@@ -34,4 +38,12 @@ function change_color_1_instagram()
 function change_color_2_instagram()
 {
     document.getElementById("button_instagram").style.backgroundColor = '#8B0029';
+}
+function change_color_1_github()
+{
+    document.getElementById("button_github").style.backgroundColor = '#61011e';
+}
+function change_color_2_github()
+{
+    document.getElementById("button_github").style.backgroundColor = '#8B0029';
 }
