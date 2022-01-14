@@ -15,11 +15,13 @@ h1
 {
     font-weight: 700 !important;
     font-size: 250% !important;
+    word-break: keep-all;
 }
 h4
 {
     font-weight: 500 !important;
     font-size: 120% !important;
+    word-break: keep-all;
 }
 #navbar_custom
 {
