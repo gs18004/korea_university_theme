@@ -29,21 +29,8 @@ h1
 }
 #home_introduce_jumbotron
 {
-    vertical-align: middle;
-    align-items:center;
-    text-align:center;
-    padding-top:20%;
-    padding-bottom:20%;
-    padding-right:5%;
-    padding-left:5%;
-    margin-right:auto;
-    margin-left:auto;
-    background-color:rgba(0,0,0, 0);
-    border-width:0px;
-    border-radius:50px;
-    /* box-shadow: 3px 3px 5px grey; */
+    border-radius:30px;
     color:#000000;
-    font-size:30px;
 }
 #line_1
 {
