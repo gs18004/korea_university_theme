@@ -11,9 +11,15 @@ body
 {
     background-color: #D7CBBD !important;
 }
-h2
+h1
 {
-    font-weight: 600 !important;
+    font-weight: 700 !important;
+    font-size: 250% !important;
+}
+h4
+{
+    font-weight: 500 !important;
+    font-size: 120% !important;
 }
 #navbar_custom
 {
