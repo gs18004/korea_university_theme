@@ -12,7 +12,7 @@ function visit_instagram()
 }
 function visit_github()
 {
-    window.open("https://github.com/mintway0341");
+    window.open("https://github.com/gs18004");
 }
 
 function change_color_1_aos()
